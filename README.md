@@ -1,2 +1,1 @@
-# .github
-CALIBRE Innovation Center
+# CALIBRE Innovation Center
